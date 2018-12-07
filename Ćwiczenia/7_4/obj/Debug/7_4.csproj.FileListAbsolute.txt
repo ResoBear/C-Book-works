@@ -1,0 +1,6 @@
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\bin\Debug\7_4.exe.config
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\bin\Debug\7_4.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\bin\Debug\7_4.pdb
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\obj\Debug\7_4.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\obj\Debug\7_4.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\7_4\obj\Debug\7_4.pdb

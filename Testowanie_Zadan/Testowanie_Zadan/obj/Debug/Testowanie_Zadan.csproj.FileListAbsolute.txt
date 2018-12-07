@@ -1,0 +1,7 @@
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\obj\Debug\Testowanie_Zadan.csprojAssemblyReference.cache
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\obj\Debug\Testowanie_Zadan.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\bin\Debug\Testowanie_Zadan.exe.config
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\bin\Debug\Testowanie_Zadan.exe
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\bin\Debug\Testowanie_Zadan.pdb
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\obj\Debug\Testowanie_Zadan.exe
+D:\Programming\C#\ZadaniaBook\Testowanie_Zadan\Testowanie_Zadan\obj\Debug\Testowanie_Zadan.pdb

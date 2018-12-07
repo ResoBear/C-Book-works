@@ -1,0 +1,7 @@
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\bin\Debug\12_1.exe.config
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\bin\Debug\12_1.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\bin\Debug\12_1.pdb
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\obj\Debug\12_1.csprojAssemblyReference.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\obj\Debug\12_1.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\obj\Debug\12_1.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\12_1\obj\Debug\12_1.pdb

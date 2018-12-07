@@ -1,0 +1,6 @@
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\bin\Debug\9_2.exe.config
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\bin\Debug\9_2.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\bin\Debug\9_2.pdb
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\obj\Debug\9_2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\obj\Debug\9_2.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\9_2\obj\Debug\9_2.pdb
