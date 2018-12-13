@@ -1,0 +1,7 @@
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\bin\Debug\14_1.exe.config
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\bin\Debug\14_1.exe
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\bin\Debug\14_1.pdb
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\obj\Debug\14_1.csprojAssemblyReference.cache
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\obj\Debug\14_1.csproj.CoreCompileInputs.cache
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\obj\Debug\14_1.exe
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_1\obj\Debug\14_1.pdb
