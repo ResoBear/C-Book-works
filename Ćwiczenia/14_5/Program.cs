@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _14_2
+namespace _14_5
 {
     class Program
     {
@@ -15,17 +15,17 @@ namespace _14_2
             Prostokat punkt3 = new Prostokat();
             Prostokat punkt4 = new Prostokat();
 
-            punkt1.x = 2;
+            punkt1.x = 9;
             punkt1.y = 1;
 
-            punkt2.x = punkt1.x;
+            punkt2.x = 2;
             punkt2.y = 4;
 
-            punkt3.x = 9;
-            punkt3.y = punkt1.y;
+            punkt3.x =  punkt3.PobierzX(punkt1.x);
+            punkt3.y = punkt3.PobierzY(punkt2.y);
 
-            punkt4.x = punkt3.x;
-            punkt4.y = punkt2.y;
+            punkt4.x = punkt4.PobierzX(punkt2.x);
+            punkt4.y = punkt4.PobierzY(punkt1.y);
 
             punkt1.Wyswietl();
             punkt2.Wyswietl();

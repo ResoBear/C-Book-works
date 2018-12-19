@@ -8,8 +8,13 @@ namespace _14_2
 {
     class Prostokat
     {
-        public int a, b, c, d;
+        public int x, y;
 
-
+        public void Wyswietl()
+        {
+            Console.WriteLine("Współżędne x: {0}", x);
+            Console.WriteLine("Współżędne y: {0}", y);
+            Console.WriteLine();
+        }
     }
 }

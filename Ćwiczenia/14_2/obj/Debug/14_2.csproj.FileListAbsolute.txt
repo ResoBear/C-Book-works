@@ -1,0 +1,6 @@
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\bin\Debug\14_2.exe.config
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\bin\Debug\14_2.exe
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\bin\Debug\14_2.pdb
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\obj\Debug\14_2.csproj.CoreCompileInputs.cache
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\obj\Debug\14_2.exe
+C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_2\obj\Debug\14_2.pdb
