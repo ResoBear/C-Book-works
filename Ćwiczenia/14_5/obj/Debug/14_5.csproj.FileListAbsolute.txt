@@ -5,3 +5,10 @@ C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_5\bin\D
 C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_5\bin\Debug\14_5.pdb
 C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_5\obj\Debug\14_5.exe
 C:\Users\Reso\Documents\Programing\GitProject\C-Book-works\Ćwiczenia\14_5\obj\Debug\14_5.pdb
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\bin\Debug\14_5.exe.config
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\bin\Debug\14_5.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\bin\Debug\14_5.pdb
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\obj\Debug\14_5.csprojAssemblyReference.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\obj\Debug\14_5.csproj.CoreCompileInputs.cache
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\obj\Debug\14_5.exe
+D:\Programming\C#\ZadaniaBook\Ćwiczenia\14_5\obj\Debug\14_5.pdb
